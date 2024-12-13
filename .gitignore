@@ -1,0 +1,46 @@
+# Python Bytecode Files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# pytest
+.cache
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python eggs and pipfile lock
+Pipfile.lock
+*.egg
+*.eggs
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+.env
